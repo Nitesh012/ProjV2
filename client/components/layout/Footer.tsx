@@ -24,9 +24,6 @@ export default function Footer() {
         </div>
         <div>
           <h3 className="mb-3 text-sm font-semibold">Company</h3>
-          <ul className="space-y-2 text-sm text-foreground/70">
-            <li><a href="https://builder.io/c/docs/projects" target="_blank" rel="noreferrer" className="hover:text-foreground">Docs</a></li>
-          </ul>
         </div>
       </div>
       <div className="border-t py-6 text-center text-xs text-foreground/60">
